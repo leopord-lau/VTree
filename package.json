@@ -1,5 +1,5 @@
 {
-  "name": "vtree",
+  "name": "vvtree",
   "version": "1.0.0",
   "description": "应对较大数据量的Vue树组件",
   "main": "VTree.vue",
