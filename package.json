@@ -1,7 +1,7 @@
 {
   "name": "vvtree",
-  "version": "1.0.0",
-  "description": "应对较大数据量的Vue树组件",
+  "version": "1.0.1",
+  "description": "采用虚拟滚动树实现的处理大数据量的Vue树组件",
   "main": "VTree.vue",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
